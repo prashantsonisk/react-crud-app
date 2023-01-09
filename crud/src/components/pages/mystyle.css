@@ -1,0 +1,16 @@
+
+.usr-data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.usr-data span{
+    margin: 15px 5px;
+    background: #d6d6d6;
+    border-radius: 4px;
+    padding: 2px 12px;
+    text-transform: capitalize;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
